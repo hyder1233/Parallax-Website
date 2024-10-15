@@ -1,1 +1,2 @@
 # Parallax-Website
+A parallax website uses a design technique that creates an illusion of depth by moving different layers of content at varying speeds as the user scrolls. This effect enhances the visual storytelling of the site, making it more engaging and immersive. Typically, background images move slower than foreground elements, resulting in a dynamic user experience. Parallax design can effectively showcase products, portfolios, or narratives, drawing visitors in with its captivating visuals and smooth transitions.
